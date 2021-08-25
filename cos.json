@@ -34,5 +34,23 @@
 "glasses-enabled":"false",
 "eastereggs-enabled":"false",
 "susanoo-enabled":"false"
+},
+{
+"name": "UnleqitEnder",
+"uuid": "e6344530-6d80-45d0-8e93-1d659d466b00",
+"enabled": "true",
+"cape-style": "Monster_Cloak.png",
+"cape-enabled": "true",
+"hat-enabled": "true",
+"hat-r": "255",
+"hat-g": "0",
+"hat-b": "0",
+"wings-enabled": "true",
+"wings-r": "100.1F",
+"wings-g": "0.1F",
+"wings-b": "0.1F",
+"glasses-enabled":"false",
+"eastereggs-enabled":"false",
+"susanoo-enabled":"false"
 }
 ]
