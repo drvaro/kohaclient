@@ -1,7 +1,7 @@
 {
-  "latest": 3.5,
+  "latest": 3.6,
   "beta": true,
   "client-name": "KohaClient",
-  "readable-version": "3.5",
+  "readable-version": "3.6",
   "full-name": "KohaClient"
 }
