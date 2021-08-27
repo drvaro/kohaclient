@@ -5,9 +5,10 @@
 "enabled": "true",
 "cape-style": "skinfile-267718.png",
 "crystelwings-style": "crystalrainbow.png",
-"halo-style": "halo.png",
+"halo-style": "halo6.png",
 "sunglasses-style": "nosunglasses.png",
-"dogpet-style": "bluewolfModel.png"
+"dogpet-style": "bluewolfModel.png",
+"poop-style": "halo7.png"
 },
 {
 "name": "xAstrooo",
@@ -18,6 +19,7 @@
 "halo-style": "blackhalo.png",
 "sunglasses-style": "sunglasses.png",
 "dogpet-style": "wolfModel.png"
+"poop-style": "poop.png"
 },
 {
 "name": "UnleqitEnder",
