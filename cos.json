@@ -17,7 +17,7 @@
 "cape-style": "skinfile-3627327.png",
 "crystelwings-style": "crystal.png",
 "halo-style": "blackhalo.png",
-"sunglasses-style": "sunglasses.png",
+"sunglasses-style": "nosunglasses.png",
 "dogpet-style": "wolfModel.png",
 "poop-style": "poop.png"
 },
@@ -28,7 +28,7 @@
 "cape-style": "Monster_Cloak.png",
 "crystelwings-style": "crystal.png",
 "halo-style": "blackhalo.png",
-"sunglasses-style": "sunglasses.png",
+"sunglasses-style": "nosunglasses.png",
 "dogpet-style": "wolfModel.png"
 },
 {
@@ -38,7 +38,7 @@
 "cape-style": "schiggycapejdkx32.png",
 "crystelwings-style": "crystalrainbow.png",
 "halo-style": "halo.png",
-"sunglasses-style": "sunglasses.png",
+"sunglasses-style": "nosunglasses.png",
 "dogpet-style": "bluewolfModel.png"
 },
 {
@@ -48,7 +48,7 @@
 "cape-style": "skinfile-180345.png",
 "crystelwings-style": "crystalrainbow.png",
 "halo-style": "blackhalo.png",
-"sunglasses-style": "sunglasses.png",
+"sunglasses-style": "nosunglasses.png",
 "dogpet-style": "wolfModel.png"
 }
 ]
