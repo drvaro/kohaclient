@@ -44,8 +44,9 @@
 "uuid": "eb4c0646-6981-4a67-bc96-8ab30aed285f",
 "enabled": "true",
 "cape-style": "skinfile-3627327.png",
+"crystelwings-style": "crystalrainbow.png",
 "halo-style": "blackhalo.png",
-"sunglasses-style": "nosunglasses.png",
-"dogpet-style": "nowolfModel.png"
+"sunglasses-style": "sunglasses.png",
+"dogpet-style": "wolfModel.png"
 }
 ]
