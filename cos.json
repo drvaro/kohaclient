@@ -7,6 +7,7 @@
 "crystelwings-style": "crystalrainbow.png",
 "halo-style": "halo.png",
 "sunglasses-style": "sunglasses.png",
+"dogpet-style": "bluewolfModel.png"
 },
 {
 "name": "xAstrooo",
@@ -16,6 +17,7 @@
 "crystelwings-style": "crystal.png",
 "halo-style": "blackhalo.png",
 "sunglasses-style": "sunglasses.png",
+"dogpet-style": "wolfModel.png"
 },
 {
 "name": "UnleqitEnder",
@@ -25,5 +27,16 @@
 "crystelwings-style": "crystal.png",
 "halo-style": "blackhalo.png",
 "sunglasses-style": "sunglasses.png",
+"dogpet-style": "wolfModel.png"
+},
+{
+"name": "Baamii",
+"uuid": "ea66762b-e634-4f20-86c7-dac50748bbdc",
+"enabled": "true",
+"cape-style": "schiggycapejdkx32.png",
+"crystelwings-style": "crystalrainbow.png",
+"halo-style": "halo.png",
+"sunglasses-style": "sunglasses.png",
+"dogpet-style": "bluewolfModel.png"
 }
 ]
