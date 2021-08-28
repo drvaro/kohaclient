@@ -8,7 +8,8 @@
 "halo-style": "halo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogpet-style": "bluewolfModel.png",
-"poop-style": "poop.png"
+"dogear-style": "nodogear.png",
+"krone-style": "krone.png",
 },
 {
 "name": "xAstrooo",
@@ -19,7 +20,8 @@
 "halo-style": "blackhalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogpet-style": "wolfModel.png",
-"poop-style": "poop.png"
+"dogear-style": "nodogear.png",
+"krone-style": "nokrone.png",
 },
 {
 "name": "UnleqitEnder",
@@ -29,7 +31,8 @@
 "crystelwings-style": "crystal.png",
 "halo-style": "blackhalo.png",
 "sunglasses-style": "nosunglasses.png",
-"dogpet-style": "wolfModel.png"
+"dogear-style": "nodogear.png",
+"krone-style": "nokrone.png",
 },
 {
 "name": "Baamii",
@@ -40,6 +43,8 @@
 "halo-style": "halo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogpet-style": "bluewolfModel.png"
+"dogear-style": "nodogear.png",
+"krone-style": "nokrone.png",
 },
 {
 "name": "Alantendo",
@@ -50,5 +55,7 @@
 "halo-style": "blackhalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogpet-style": "wolfModel.png"
+"dogear-style": "nodogear.png",
+"krone-style": "nokrone.png",
 }
 ]
