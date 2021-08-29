@@ -3,7 +3,7 @@
 "name": "jdkx32",
 "uuid": "5fd4a938-0e65-4867-bcf5-7d5541e42cb0",
 "enabled": "true",
-"cape-style": "skinfile-267718.png",
+"cape-style": "meliodascape.png",
 "crystelwings-style": "crystalrainbow.png",
 "halo-style": "nohalo.png",
 "sunglasses-style": "nosunglasses.png",
@@ -57,5 +57,17 @@
 "dogpet-style": "wolfModel.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png"
+},
+{
+"name": "Hyperaktiv_v",
+"uuid": "89e58308-547a-494c-9d28-b00b025df351",
+"enabled": "true",
+"cape-style": "Monster_Cloak.png",
+"crystelwings-style": "crystalrainbow.png",
+"halo-style": "nohalo.png",
+"sunglasses-style": "nosunglasses.png",
+"dogpet-style": "bluewolfModel.png",
+"dogear-style": "nodogear.png",
+"krone-style": "krone.png"
 }
 ]
