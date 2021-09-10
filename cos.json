@@ -64,5 +64,16 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png"
+},
+{
+"name": "mizale",
+"uuid": "efc867af-1eaf-4d3f-a3c1-1329bef49077",
+"enabled": "true",
+"cape-style": "skinfile-178119.png",
+"crystelwings-style": "crystalrainbow.png",
+"halo-style": "nohalo.png",
+"sunglasses-style": "nosunglasses.png",
+"dogear-style": "nodogear.png",
+"krone-style": "krone.png"
 }
 ]
