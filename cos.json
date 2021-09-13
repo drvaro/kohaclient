@@ -8,7 +8,8 @@
 "halo-style": "nohalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
-"krone-style": "krone.png"
+"krone-style": "krone.png",
+"ign": ""
 },
 {
 "name": "xAstrooo",
@@ -19,7 +20,8 @@
 "halo-style": "blackhalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
-"krone-style": "nokrone.png"
+"krone-style": "nokrone.png",
+"ign": ""
 },
 {
 "name": "UnleqitEnder",
@@ -30,7 +32,8 @@
 "halo-style": "blackhalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
-"krone-style": "nokrone.png"
+"krone-style": "nokrone.png",
+"ign": ""
 },
 {
 "name": "Baamii",
@@ -41,7 +44,8 @@
 "halo-style": "halo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
-"krone-style": "nokrone.png"
+"krone-style": "nokrone.png",
+"ign": ""
 },
 {
 "name": "Alantendo",
@@ -52,7 +56,8 @@
 "halo-style": "blackhalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
-"krone-style": "nokrone.png"
+"krone-style": "nokrone.png",
+"ign": ""
 },
 {
 "name": "jdkxjunior",
@@ -63,7 +68,8 @@
 "halo-style": "blackhalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
-"krone-style": "nokrone.png"
+"krone-style": "nokrone.png",
+"ign": ""
 },
 {
 "name": "mizale",
@@ -74,6 +80,7 @@
 "halo-style": "nohalo.png",
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
-"krone-style": "krone.png"
+"krone-style": "krone.png",
+"ign": ""
 }
 ]
