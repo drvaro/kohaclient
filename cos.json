@@ -82,5 +82,17 @@
 "dogear-style": "nodogear.png",
 "krone-style": "krone.png",
 "ign": ""
+},
+{
+"name": "leM1ne",
+"uuid": "2a0359e2-5331-4017-8832-64637093063e",
+"enabled": "true",
+"cape-style": "CapeNotHere.png",
+"crystelwings-style": "nocrystal.png",
+"halo-style": "nohalo.png",
+"sunglasses-style": "nosunglasses.png",
+"dogear-style": "nodogear.png",
+"krone-style": "nokrone.png",
+"ign": "§6§lJust a Java Coder"
 }
 ]
