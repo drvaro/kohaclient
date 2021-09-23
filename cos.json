@@ -94,5 +94,17 @@
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
 "ign": "§b§kw§r §6§lJust a Java Coder §b§kw§r"
+},
+{
+"name": "Hutschys",
+"uuid": "c6dc66e6-43e8-4197-ad8d-6dd88820d90b",
+"enabled": "true",
+"cape-style": "CapeNotHere.png",
+"crystelwings-style": "crystalrainbow.png",
+"halo-style": "nohalo.png",
+"sunglasses-style": "nosunglasses.png",
+"dogear-style": "dogear.png",
+"krone-style": "nokrone.png",
+"ign": ""
 }
 ]
