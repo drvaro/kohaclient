@@ -9,7 +9,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "krone.png",
-"ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Developer §1§l§kaa"
+"ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Developer §1§l§kaa",
+"batwings-style": "batWings.png"
 },
 {
 "name": "xAstrooo",
@@ -21,7 +22,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
-"ign": ""
+"ign": "",
+"batwings-style": "nobatWings.png"
 },
 {
 "name": "UnleqitEnder",
@@ -33,7 +35,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
-"ign": ""
+"ign": "",
+"batwings-style": "nobatWings.png"
 },
 {
 "name": "Baamii",
@@ -45,7 +48,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
-"ign": ""
+"ign": "",
+"batwings-style": "nobatWings.png"
 },
 {
 "name": "Alantendo",
@@ -57,7 +61,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
-"ign": ""
+"ign": "",
+"batwings-style": "nobatWings.png"
 },
 {
 "name": "jdkxjunior",
@@ -69,7 +74,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
-"ign": ""
+"ign": "",
+"batwings-style": "nobatWings.png"
 },
 {
 "name": "mizale",
@@ -81,7 +87,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "krone.png",
-"ign": ""
+"ign": "",
+"batwings-style": "nobatWings.png"
 },
 {
 "name": "leM1ne",
@@ -93,7 +100,8 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
-"ign": "§b§kw§r §6§lJust a Java Coder §b§kw§r"
+"ign": "§b§kw§r §6§lJust a Java Coder §b§kw§r",
+"batwings-style": "nobatWings.png"
 },
 {
 "name": "Hutschys",
@@ -105,6 +113,7 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "dogear.png",
 "krone-style": "nokrone.png",
-"ign": ""
+"ign": "",
+"batwings-style": "nobatWings.png"
 }
 ]
