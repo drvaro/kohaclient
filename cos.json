@@ -12,7 +12,9 @@
 "ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Developer §1§l§kaa",
 "batwings-style": "batWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "xAstrooo",
@@ -27,7 +29,9 @@
 "ign": "",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "UnleqitEnder",
@@ -42,7 +46,9 @@
 "ign": "",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "Baamii",
@@ -57,7 +63,9 @@
 "ign": "",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "Alantendo",
@@ -72,7 +80,9 @@
 "ign": "",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "jdkxjunior",
@@ -87,7 +97,9 @@
 "ign": "",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "mizale",
@@ -102,7 +114,9 @@
 "ign": "",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "leM1ne",
@@ -117,7 +131,9 @@
 "ign": "§b§kw§r §6§lJust a Java Coder §b§kw§r",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 },
 {
 "name": "Hutschys",
@@ -132,6 +148,8 @@
 "ign": "",
 "batwings-style": "nobatWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom"
+"animated-cape-texture": "Capes/CapeCustom",
+"animated-cape-frames": "6",
+"animated-cape-fps": "20"
 }
 ]
