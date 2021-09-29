@@ -10,11 +10,12 @@
 "dogear-style": "nodogear.png",
 "krone-style": "krone.png",
 "ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Developer §1§l§kaa",
-"batwings-style": "batWings.png",
-"animated-cape": "true",
-"animated-cape-texture": "meliodas",
-"animated-cape-frames": "39",
-"animated-cape-fps": "5"
+"batwings-style": "nobatWings.png",
+"animated-cape-meliodas": "true",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "xAstrooo",
@@ -28,10 +29,11 @@
 "krone-style": "nokrone.png",
 "ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Designer §1§l§kaa",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "UnleqitEnder",
@@ -45,10 +47,11 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "Baamii",
@@ -62,10 +65,11 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "Alantendo",
@@ -79,10 +83,11 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "jdkxjunior",
@@ -96,10 +101,11 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "mizale",
@@ -113,10 +119,11 @@
 "krone-style": "krone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "leM1ne",
@@ -130,10 +137,11 @@
 "krone-style": "nokrone.png",
 "ign": "§b§kw§r §6§lJust a Java Coder §b§kw§r",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 },
 {
 "name": "Hutschys",
@@ -147,9 +155,10 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "false",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "20"
+"animated-cape-meliodas": "false",
+"animated-cape-animepictures": "false",
+"animated-cape-kaktus": "false",
+"animated-cape-kirby": "false",
+"animated-cape-loop": "false"
 }
 ]
