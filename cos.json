@@ -28,7 +28,7 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
