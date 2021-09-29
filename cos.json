@@ -12,7 +12,7 @@
 "ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Developer §1§l§kaa",
 "batwings-style": "batWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/meliodas",
+"animated-cape-texture": "meliodas",
 "animated-cape-frames": "39",
 "animated-cape-fps": "5"
 },
