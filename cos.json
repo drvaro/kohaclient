@@ -11,7 +11,7 @@
 "krone-style": "krone.png",
 "ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Developer §1§l§kaa",
 "batwings-style": "batWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
@@ -26,7 +26,7 @@
 "sunglasses-style": "nosunglasses.png",
 "dogear-style": "nodogear.png",
 "krone-style": "nokrone.png",
-"ign": "",
+"ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Designer §1§l§kaa",
 "batwings-style": "nobatWings.png",
 "animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
@@ -45,7 +45,7 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
@@ -62,7 +62,7 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
@@ -79,7 +79,7 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
@@ -96,7 +96,7 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
@@ -113,7 +113,7 @@
 "krone-style": "krone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
@@ -130,7 +130,7 @@
 "krone-style": "nokrone.png",
 "ign": "§b§kw§r §6§lJust a Java Coder §b§kw§r",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
@@ -147,7 +147,7 @@
 "krone-style": "nokrone.png",
 "ign": "",
 "batwings-style": "nobatWings.png",
-"animated-cape": "true",
+"animated-cape": "false",
 "animated-cape-texture": "Capes/CapeCustom",
 "animated-cape-frames": "6",
 "animated-cape-fps": "20"
