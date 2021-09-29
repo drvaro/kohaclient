@@ -12,9 +12,9 @@
 "ign": "§1§l§kaa §f§c KohaClient §3§l| §f§9Developer §1§l§kaa",
 "batwings-style": "batWings.png",
 "animated-cape": "true",
-"animated-cape-texture": "Capes/CapeCustom",
-"animated-cape-frames": "6",
-"animated-cape-fps": "2"
+"animated-cape-texture": "Capes/meliodas",
+"animated-cape-frames": "40",
+"animated-cape-fps": "5"
 },
 {
 "name": "xAstrooo",
