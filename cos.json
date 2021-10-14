@@ -16,17 +16,17 @@
 "susanno-style": "redsusanno.png",
 "villagerNose-style": "novillagerNose.png",
 "guardian-style": "noguardian.png",
-"kreuz-style": "kreuz.png",
-"ghast-style": "ghast.png",
+"kreuz-style": "nosusanno.png",
+"ghast-style": "noghast.png",
 "wither-style": "nowither.png",
-"dragon-style": "nodragon.png",
+"dragon-style": "dragon.png",
 "headset-style": "noheadset.png",
-"animated-cape-meliodas": "true",
+"animated-cape-meliodas": "false",
 "animated-cape-animepictures": "false",
 "animated-cape-kaktus": "false",
 "animated-cape-kirby": "false",
 "animated-cape-loop": "false",
-"animated-cape-schiggy" : "false"
+"animated-cape-schiggy" : "true"
 },
 {
 "name": "xAstrooo",
