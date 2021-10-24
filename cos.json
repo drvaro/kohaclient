@@ -3,7 +3,7 @@
 "name": "jdkx32",
 "uuid": "5fd4a938-0e65-4867-bcf5-7d5541e42cb0",
 "enabled": "true",
-"cape-style": "meliodascape.png",
+"cape-style": "CapeNotHere.png",
 "crystelwings-style": "crystalrainbow.png",
 "halo-style": "nohalo.png",
 "sunglasses-style": "nosunglasses.png",
@@ -15,8 +15,8 @@
 "blaze-style": "noblaze.png",
 "susanno-style": "nosusanno.png",
 "villagerNose-style": "novillagerNose.png",
-"guardian-style": "noguardian.png",
-"kreuz-style": "nosusanno.png",
+"guardian-style": "halo2.png",
+"kreuz-style": "kreuz.png",
 "ghast-style": "noghast.png",
 "wither-style": "nowither.png",
 "dragon-style": "dragon.png",
@@ -26,7 +26,7 @@
 "animated-cape-kaktus": "false",
 "animated-cape-kirby": "false",
 "animated-cape-loop": "false",
-"animated-cape-schiggy" : "true"
+"animated-cape-schiggy" : "false"
 },
 {
 "name": "xAstrooo",
